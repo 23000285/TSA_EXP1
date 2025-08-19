@@ -1,5 +1,9 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
+## Developed By : VENKATANATHAN P R
+
+## Register Number: 212223240173
+
 ### Date: 18-08-2025
 
 ## AIM:
